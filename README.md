@@ -1,6 +1,6 @@
-# [1.Projects](web-scraping-and-sentiment-anaysis-imdb.ipynb)
+# 1.Projects
 
-## Web Scraping and Sentiment Analysis
+## [Web Scraping and Sentiment Analysis]((web-scraping-and-sentiment-anaysis-imdb.ipynb))
 
 
 ## Introduction
