@@ -1,24 +1,31 @@
 # 1.Projects
 
-## [Web Scraping and Sentiment Analysis]((web-scraping-and-sentiment-anaysis-imdb.ipynb))
+## Fandango Project
 
+## Overview
+if you are planning on going out to see a movie,how well ca you trust online reviews and ratings?Especially if the same company showing rating also makes money by selling movie ticktes. Do they have a bias towards rating movies higher than they should be rated
 
-## Introduction
-Everyday we watch various movies in our lives, on the digital medium we visit across hundreds of website  to check the movies . It will be tedious for the viewer  to make selection a better movie to wacth. Here comes 'reviews' where viewers who have already watched that movie leave a rating after using them and brief their experience by giving reviews. As we know ratings can be easily sorted and judged whether a movie is good or bad. But when it comes to sentence reviews we need to read through every line to make sure the review conveys a positive or negative sense. In the era of artificial intelligence, things like that have got easy with the Natural Language Processing(NLP) technology.
+## Goal:
+Your goal is to complete the task below based off the 538 article and see if you reach a similar conclusion.you will need to use your pandas and visualisation skills to determine if Fandango's ratings in 2015 had a bias rating movies better to sell more tickets
 
-## What is sentiment analysis? 
-Sentiment Analysis is the most common text classification tool that analyses an incoming message and tells whether the underlying sentiment is positive, negative our neutral. Understanding people’s emotions is essential for businesses since customers are able to express their thoughts and feelings more openly than ever before. It is quite hard for a human to go through each single line and identify the emotion being the user experience. Now with technology, we can automatically analysing viewers feedback, from survey responses to social media conversations, Film makers are able to listen attentively to their viewers, and create movies to fulfil  their needs.
+## Part One : Understanding the Background and Data
+Task: Read this artcile : Be Suspicious Of Online Movie Ratings, Especially Fandango’s
 
-## Problem statement
-This is the Problem Statement in which we have to scrape the reviews of movie from the Imdb website and perform the sentiment analysis  on the reviews  to know about movie is worth to watch or not.
-Movies websites like Imdb ,Rotten Tomato get vast amount of review from the viewers. To go through all the review's can be a tedious job. You have to categorize opinions expressed in feedback forums. This can be utilized for feedback management system. We Classification of individual comments/reviews. And we also determining overall rating based on individual comments/reviews. So that company can get a complete idea on feedback's provided by viewers and can take care on those particular fields. 
+Task: After Reading the article , read these two tables giving an overview of the two .csv files we will be working with:
 
-## Objectives of Project¶
-1.	Reviews Preprocessing and Cleaning
-2.	Story Generation and Visualization from reviews
-3.	Extracting Features from Cleaned reviews
-4.	Building Wordclouds
-5.	Sentiment Analysis
+The Data
 
-![](https://github.com/tariz800/Projects/blob/main/images/download.png)
-![](https://github.com/tariz800/Projects/blob/main/images/download%20(1).png)
+This is the data behind the story Be Suspicious Of Online Movie Ratings, Especially Fandango’s.There are two csv files one with Fandango Stars and Displayed Ratings , and the other with aggregate data for movie ratings from other sites , Metacritic , IMDB and Rotten Tomatoes.
+
+all_sites_score.csv and fandango_scrape.csv
+
+## Part Two: Exploring Fandango Displayed Scores versus True USer Ratings
+Let's first explore the Fandango rating to see if our analysis agrees with the article's conclusion.
+
+## Fandango Scores vs All Sites
+Finally let's begin to explore whether or not Fandango artificially displays higher ratings than warranted to boost ticket sales.
+
+Combining the Fandango Table with the ALL suts table. Not every movie in the fandango table is in the All sites table,Since some fandango movies have very little or no reviews.we only want to compare movies that are in both DataFrames, So doing an inner merge to merge togethher both DataFrames on the FILM columns.
+
+## Final
+Visualizing the distribution of ratings across all sites for the top 10 worst movies.
