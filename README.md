@@ -9,7 +9,7 @@ if you are planning on going out to see a movie,how well ca you trust online rev
 Your goal is to complete the task below based off the 538 article and see if you reach a similar conclusion.you will need to use your pandas and visualisation skills to determine if Fandango's ratings in 2015 had a bias rating movies better to sell more tickets
 
 ## Part One : Understanding the Background and Data
-Task: Read this artcile : Be Suspicious Of Online Movie Ratings, Especially Fandango’s
+Task: Read this artcile : [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](https://fivethirtyeight.com/features/fandango-movies-ratings/)
 
 Task: After Reading the article , read these two tables giving an overview of the two .csv files we will be working with:
 
