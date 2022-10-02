@@ -1,6 +1,6 @@
 # 1.Projects
 
-## Fandango Project
+## [Fandango Project](https://github.com/tariz800/Projects/blob/8b011eef8240881949fbdfe6dba8bb265fd61cef/Fandango/fandango-project.ipynb)
 
 ## Overview
 if you are planning on going out to see a movie,how well ca you trust online reviews and ratings?Especially if the same company showing rating also makes money by selling movie ticktes. Do they have a bias towards rating movies higher than they should be rated
