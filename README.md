@@ -25,7 +25,7 @@ Let's first explore the Fandango rating to see if our analysis agrees with the a
 
 ## Fandango Scores vs All Sites
 Finally let's begin to explore whether or not Fandango artificially displays higher ratings than warranted to boost ticket sales.
-[](https://github.com/tariz800/Projects/blob/8399646f6db4f39a063a9d3d4926a52f56e741a7/images/fandango_vs_all.png)
+![](https://github.com/tariz800/Projects/blob/973fcc600ede94f67bcd2743f7a40ef695281d1f/images/true_user_vs_fandango.png)
 
 Combining the Fandango Table with the ALL suts table. Not every movie in the fandango table is in the All sites table,Since some fandango movies have very little or no reviews.we only want to compare movies that are in both DataFrames, So doing an inner merge to merge togethher both DataFrames on the FILM columns.
 
