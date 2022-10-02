@@ -44,3 +44,5 @@ Feature Engineering
 Satandardization
 Model Building
 Predictions
+
+![](https://github.com/tariz800/Projects/blob/main/images/heart_bar.png)
