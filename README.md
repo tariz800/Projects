@@ -31,3 +31,16 @@ Combining the Fandango Table with the ALL suts table. Not every movie in the fan
 ## Final
 Visualizing the distribution of ratings across all sites for the top 10 worst movies.
 ![](https://github.com/tariz800/Projects/blob/main/images/final.png)
+
+# 2.Project
+
+## [Heart Attack Risk Predictor](https://github.com/tariz800/Projects/blob/main/Heart_Attack_Risk/heart_attack.ipynb)
+In this project we will Make Machine learnings Algorithm that will help us predict the risk of a Heart Attack a person have.
+
+We will do use various Algorithms to predict the result and see which one suits best. 
+
+Data Analysis
+Feature Engineering
+Satandardization
+Model Building
+Predictions
