@@ -17,7 +17,7 @@ The Data
 
 This is the data behind the story Be Suspicious Of Online Movie Ratings, Especially Fandango’s.There are two csv files one with Fandango Stars and Displayed Ratings , and the other with aggregate data for movie ratings from other sites , Metacritic , IMDB and Rotten Tomatoes.
 
-all_sites_score.csv and fandango_scrape.csv
+[all_sites_score.csv](https://github.com/tariz800/Projects/blob/df375999301253db366fe3bf6b9bc4c7e689f338/Fandango/all_sites_scores.csv ) and [fandango_scrape.csv](https://github.com/tariz800/Projects/blob/df375999301253db366fe3bf6b9bc4c7e689f338/Fandango/fandango_scrape.csv)
 
 ## Part Two: Exploring Fandango Displayed Scores versus True USer Ratings
 Let's first explore the Fandango rating to see if our analysis agrees with the article's conclusion.
