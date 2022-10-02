@@ -19,13 +19,16 @@ This is the data behind the story Be Suspicious Of Online Movie Ratings, Especia
 
 [all_sites_score.csv](https://github.com/tariz800/Projects/blob/df375999301253db366fe3bf6b9bc4c7e689f338/Fandango/all_sites_scores.csv ) and [fandango_scrape.csv](https://github.com/tariz800/Projects/blob/df375999301253db366fe3bf6b9bc4c7e689f338/Fandango/fandango_scrape.csv)
 
-## Part Two: Exploring Fandango Displayed Scores versus True USer Ratings
+## Part Two: Exploring Fandango Displayed Scores versus True User Ratings
 Let's first explore the Fandango rating to see if our analysis agrees with the article's conclusion.
+[](https://github.com/tariz800/Projects/blob/8399646f6db4f39a063a9d3d4926a52f56e741a7/images/true_user_vs_fandango.png)
 
 ## Fandango Scores vs All Sites
 Finally let's begin to explore whether or not Fandango artificially displays higher ratings than warranted to boost ticket sales.
+[](https://github.com/tariz800/Projects/blob/8399646f6db4f39a063a9d3d4926a52f56e741a7/images/fandango_vs_all.png)
 
 Combining the Fandango Table with the ALL suts table. Not every movie in the fandango table is in the All sites table,Since some fandango movies have very little or no reviews.we only want to compare movies that are in both DataFrames, So doing an inner merge to merge togethher both DataFrames on the FILM columns.
 
 ## Final
 Visualizing the distribution of ratings across all sites for the top 10 worst movies.
+[](https://github.com/tariz800/Projects/blob/8399646f6db4f39a063a9d3d4926a52f56e741a7/images/final.png)
