@@ -49,6 +49,7 @@ Predictions
 
 # 3.Project
 ## [Bike Rental Count Prediction uisng ML and Auto ML](https://github.com/tariz800/Projects/blob/main/Bike_Rental/bike-rental-prediction.ipynb)
+
 [](https://github.com/tariz800/Projects/blob/a3a51ff178ab2620736cf0cd3b28d12b7ed97c41/images/download.jpeg)
 
 # Backgroung:
@@ -66,5 +67,6 @@ Predictions
 - Feature Engineering
 - Model Building using ML
 - Model Building and Prediction using H2O Auto ML
+
 
 [](https://github.com/tariz800/Projects/blob/a3a51ff178ab2620736cf0cd3b28d12b7ed97c41/images/bike_pred.png)
