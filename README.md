@@ -49,9 +49,9 @@ Predictions
 
 # 3.Project
 ## [Bike Rental Count Prediction uisng ML and Auto ML](https://github.com/tariz800/Projects/blob/main/Bike_Rental/bike-rental-prediction.ipynb)
-[](https://github.com/tariz800/Projects/blob/main/images/download.jpeg)
+[](https://github.com/tariz800/Projects/blob/a3a51ff178ab2620736cf0cd3b28d12b7ed97c41/images/download.jpeg)
 
-#Backgroung:
+# Backgroung:
 ## Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of over 500 thousands bicycles. Today, there exists great interest in these systems due to their important role in traffic, environmental and health issues.
 
 ## About the Dataset
@@ -67,4 +67,4 @@ Predictions
 - Model Building using ML
 - Model Building and Prediction using H2O Auto ML
 
-[](https://github.com/tariz800/Projects/blob/main/images/bike_pred.png)https://github.com/tariz800/Projects/blob/main/images/bike_pred.png
+[](https://github.com/tariz800/Projects/blob/a3a51ff178ab2620736cf0cd3b28d12b7ed97c41/images/bike_pred.png)
